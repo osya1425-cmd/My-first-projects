@@ -1,0 +1,16 @@
+body {
+    background-color:#dfca53 ;
+    color:hwb(0 8% 91%);
+    font-size:20px;}
+   .heading{
+        color:blueviolet}
+     h{font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ } 
+ .last{font-size:  14px;;
+font-family: 'Courier New', Courier, monospace;
+background-color: beige;
+text-align: center;
+padding: 20px;}
+*{margin: 0px;
+padding: 0;}
